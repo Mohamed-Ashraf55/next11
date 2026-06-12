@@ -26,7 +26,7 @@ export default function Home() {
 
           {/* تاريخ النشر */}
           <p className="text-sm font-medium text-black">
-            Published 21 Dec 2023
+            Published 21 Dec 2026
           </p>
 
           {/* عنوان المقال */}
